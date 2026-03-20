@@ -1,27 +1,29 @@
-🚀 Supervised Learning Models Collection
+# 🚀 Supervised Learning Models Collection
 
-📌 Overview
+---
+
+## 📌 Overview
 
 This repository contains implementation of multiple Supervised Machine Learning algorithms using Python.
 The goal of this project is to understand the mathematical intuition, working principles, and real-world application of regression and classification models.
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
-SUPERVISED_LEARNING/
-│
-├── decision_tree.ipynb
-├── KNN_classification.ipynb
-├── linear_regression.ipynb
-├── logistic_regression.ipynb
-├── multi_linear_regression.ipynb
-├── polynomial_regression.ipynb
-├── SVM.ipynb
+### SUPERVISED_LEARNING
+
+ decision_tree.ipynb
+ KNN_classification.ipynb
+ linear_regression.ipynb
+ logistic_regression.ipynb
+ multi_linear_regression.ipynb
+ polynomial_regression.ipynb
+ SVM.ipynb
 
 ---
 
-🧠 Algorithms Covered
+## 🧠 Algorithms Covered
 
 🔹 Regression Models
 
@@ -38,7 +40,7 @@ SUPERVISED_LEARNING/
 
 ---
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 - Python 🐍
 - NumPy
@@ -48,14 +50,14 @@ SUPERVISED_LEARNING/
 
 ---
 
-📊 Dataset Used
+## 📊 Dataset Used
 
 - Built-in datasets (like Iris dataset)
 - Custom CSV datasets (for practice & experimentation)
 
 ---
 
-🎯 Key Learning Outcomes
+## 🎯 Key Learning Outcomes
 
 - Understanding mathematical intuition behind ML models
 - Feature selection and preprocessing
@@ -65,11 +67,11 @@ SUPERVISED_LEARNING/
 
 ---
 
-▶️ How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/durx95/Supervised_Learning.git
 
 2. Install dependencies:
 
@@ -79,7 +81,7 @@ pip install -r requirements.txt
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 - Add real-world datasets
 - Model deployment using Flask / FastAPI
@@ -88,7 +90,7 @@ pip install -r requirements.txt
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Durgesh Maurya
 
